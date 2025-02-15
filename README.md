@@ -25,3 +25,4 @@ Microsoft Excel (Pivot Tables, Charts, Slicers, Conditional Formatting)
 Download & Open the Excel File 📂
 Explore the Dashboard Sheet 🧐
 Use Filters for Custom Insights 🎯
+![Image](https://github.com/user-attachments/assets/d3ed3088-37a4-4e42-9b21-a951c7300ce8)
